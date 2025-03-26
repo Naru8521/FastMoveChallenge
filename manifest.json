@@ -4,8 +4,8 @@
 		"description": "FastMoveChallenge\ncreated by:なるる\nYouTube:なるる-Naruru",
 		"name": "FastMoveChallenge",
 		"uuid": "d1a16a03-53e2-47d0-8106-a1c672330e07",
-		"version": [1, 0, 0],
-		"min_engine_version": [1, 21, 62]
+		"version": [1, 1, 0],
+		"min_engine_version": [1, 21, 70]
 	},
 	"modules": [
 		{
@@ -13,14 +13,14 @@
 			"type": "script",
 			"language": "javascript",
 			"uuid": "295894e9-303d-4bb0-b080-b9b5c3b8a2db",
-			"version": [1, 0, 0],
+			"version": [1, 1, 0],
 			"entry": "scripts/index.js"
 		}
 	],
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "2.0.0-alpha"
+			"version": "3.0.0-alpha"
 		}
 	]
 }
